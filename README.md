@@ -1,5 +1,5 @@
 # From Customer Segmentation to Predictive Modeling
-## Customer Segmentation Classification
+Classifying Clustered Customers with Random Forest
 
 ## Overview
 
