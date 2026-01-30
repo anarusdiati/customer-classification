@@ -58,6 +58,8 @@ Combining clustering and classification creates a production-ready pipeline for 
 
 ## Medium
 
-Read this project article on my [Medium](https://medium.com/@anarusdiati/from-customer-segmentation-to-predictive-modeling-6b20de5a3f15)
+Read this project article on:
+- [Medium](https://medium.com/@anarusdiati/from-customer-segmentation-to-predictive-modeling-6b20de5a3f15)
+- [Kaggle Notebook](https://www.kaggle.com/code/anarusdiati/marketing-campaign-classification)
 
 Let's connect
