@@ -58,4 +58,10 @@ The tuned model shows consistent improvement with balanced precision and recall 
 
 ## Key Insight
 
-Combining clustering and classification creates a production-ready pipeline for customer segmentation, enabling scalable personalization and data-driven marketing decisio
+Combining clustering and classification creates a production-ready pipeline for customer segmentation, enabling scalable personalization and data-driven marketing decision
+
+## Medium
+
+Read this project article on my [Medium](https://medium.com/@anarusdiati/from-customer-segmentation-to-predictive-modeling-6b20de5a3f15)
+
+Let's connect
