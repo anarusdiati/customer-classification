@@ -8,7 +8,6 @@ After generating customer segments using clustering, a supervised learning appro
 
 The objective is to enable **scalable and real-time customer segmentation** for new data.
 
----
 
 ## Workflow
 
@@ -19,7 +18,6 @@ The objective is to enable **scalable and real-time customer segmentation** for 
 5. Evaluation of tuned model
 6. Result analysis
 
----
 
 ## Model
 
@@ -31,7 +29,6 @@ The objective is to enable **scalable and real-time customer segmentation** for 
   - Recall
   - F1-Score
 
----
 
 ## Performance
 
@@ -45,7 +42,6 @@ The objective is to enable **scalable and real-time customer segmentation** for 
 
 The tuned model shows consistent improvement with balanced precision and recall across all classes.
 
----
 
 ## Best Parameters
 
@@ -54,7 +50,7 @@ The tuned model shows consistent improvement with balanced precision and recall 
 - min_samples_split: 2  
 - min_samples_leaf: 1  
 
----
+
 
 ## Key Insight
 
